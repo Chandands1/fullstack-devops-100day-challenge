@@ -38,3 +38,4 @@ This repository tracks my 100-day journey into mastering full-stack development 
 - ✅ Monitoring with Prometheus + Grafana
 
 ---
+Made with ❤️ by [Chandan D S](https://github.com/chandands1)
